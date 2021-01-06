@@ -1,0 +1,19 @@
+.bottom {
+    background-color: #c0301c;
+    height: 300px;
+}
+
+.bottom img {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.bottom h3 {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: underline;
+}

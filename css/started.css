@@ -1,0 +1,39 @@
+.get-started {
+    height: 370px;
+    background-image: url("../images/background-picture.jpg");
+    background-color: #c0301c;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+}
+
+.get-started-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #c0301c;
+    opacity: 0.4;
+}
+
+.get-started-header {
+    position: absolute;
+    width: 100%;
+    }
+
+.get-started h2 {
+        color: white;
+    font-weight: 200;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    line-height: 44px;
+    padding-top: 99px;
+}
+
+.get-started button {
+    z-index: 2;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 200;
+}

@@ -1,0 +1,34 @@
+.contacts img {
+    float: left;
+    margin-top: 2px;
+}
+.contacts h3 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+        margin-bottom: 5px;
+}
+
+.contacts {
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    }
+
+.contacts-info {
+ margin-left: 30px;
+}
+
+.contacts-form {
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 0 10px 20px 10px;
+    padding: 15px 15px;
+}
+
+input:focus {
+    border-color: #c0301c;
+}
+
