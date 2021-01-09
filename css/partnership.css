@@ -1,16 +1,11 @@
 .partner-images {
-    text-align: center;
-
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .partner-images img {
-    display: inline-block;
-    margin-right: 60px;
     vertical-align: middle;
-}
-
-.partner-images img:last-child {
-    margin-right: 0;
 }
 
 .partner-text {
@@ -30,5 +25,15 @@
 
 .partner-item {
     text-align: center;
-    display: block;
+    margin: auto;
+}
+
+.partner-item img {
+    margin: 0 10px 0 10px;
+}
+
+@media (max-width: 768px) {
+    .partner-images img {
+        margin: 15px;
+    }
 }

@@ -91,3 +91,10 @@ padding-bottom: 15px;
     border-bottom: 1px solid #ddd;
     margin-bottom: 38px;
 }
+
+@media (max-width: 768px) {
+    .blog-position {
+        display: flex;
+        justify-content: center;
+    }
+}

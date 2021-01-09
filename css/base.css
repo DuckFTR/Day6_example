@@ -4,11 +4,6 @@ body {
     font-family: 'Roboto Slab', serif;
     color: #676767;
     }
-.container {
-    width: 1160px;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .clear::after {
     clear: both;

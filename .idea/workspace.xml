@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29bd0247-5d53-4a13-b913-4f3f22f53ce7" name="Default Changelist" comment="" />
+    <list default="true" id="29bd0247-5d53-4a13-b913-4f3f22f53ce7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contatcs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contatcs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/partnership.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partnership.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/started.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/started.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/top-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/top-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bottom-birds.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bottom-birds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mbhmCCFk6zVywl8xkJhoYCAM34" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,10 +60,28 @@
       <updated>1609768356240</updated>
       <workItem from="1609768358382" duration="26865000" />
       <workItem from="1609861225593" duration="7865000" />
+      <workItem from="1609918333856" duration="704000" />
+      <workItem from="1609925786135" duration="596000" />
+      <workItem from="1609964706013" duration="6877000" />
+      <workItem from="1610004691089" duration="2468000" />
+      <workItem from="1610113383257" duration="7241000" />
+      <workItem from="1610218739624" duration="10296000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

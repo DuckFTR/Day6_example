@@ -1,20 +1,28 @@
 .page-header {
-    height: 770px;
+    height: 100vh;
     background-image: url("../images/header.jpg");
+    background-size: cover;
 }
 
-.logo{
-    float: left;
+.header-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .top {
+    display: flex;
+    justify-content: space-between;
     padding-top: 36px;
 }
 
 .header-content {
     color: white;
     text-align: center;
-    margin-top: 260px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
 
 .header-content-title {
@@ -35,4 +43,19 @@
 
 .header-content-btn {
     margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    .top {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .top-menu {
+        align-items: center;
+    }
+    .header-content-title {
+        font-size: 32px;
+    }
+    .header-content-subtitle {
+        font-size: 16px;
 }
